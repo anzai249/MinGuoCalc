@@ -3,4 +3,6 @@
 
 An AD and Minguo(ROC) year convert program is written for many situations, so feel free to find the bugs.
 
+仅供学习交流使用，无冒犯之意！
+
 ![image](image.png)
